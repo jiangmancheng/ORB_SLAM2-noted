@@ -1,0 +1,1 @@
+../../Vocabulary/ORBvoc.txt ./TUM1.yaml ../../rgbd_dataset_freiburg2_xyz ../../rgbd_dataset_freiburg2_xyz/associate.txt

@@ -1,0 +1,4 @@
+运行tum数据集
+../../Vocabulary/ORBvoc.txt ./TUM1.yaml ../../rgbd_dataset_freiburg2_large_with_loop/
+运行kitti数据集
+../../Vocabulary/ORBvoc.txt ./KITTI00-02.yaml ../../02
